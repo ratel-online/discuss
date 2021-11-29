@@ -1,2 +1,2 @@
 # Discuss
-All suggestions and good ideas can be raised on issues.
+All suggestions and good ideas can be created for issues.
