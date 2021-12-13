@@ -19,4 +19,4 @@ input ->|3  |4  |5  |6  |7  |8  |9  |0  |J j|Q q|K k|A a 1|2  |S s|X x|
  - 飞机：`jjjqqq34`
 
 ## 演示
-[demo](demo.gif)
+![demo](demo.gif)
